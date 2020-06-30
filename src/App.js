@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css';
 import RepoComp from './components/RepoComp/Repositories'
-import ContactMeComp from './components/ContactMeComp/ContactMe'
+import AboutMeComp from './components/AboutMeComp/AboutMe'
 
 function App() {
   return (
@@ -10,7 +10,7 @@ function App() {
         Start up app
       </h1>
       <RepoComp></RepoComp>
-      <ContactMeComp></ContactMeComp>
+      <AboutMeComp></AboutMeComp>
 
     </div>
   );

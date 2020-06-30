@@ -1,5 +1,5 @@
 import React from "react";
-function ContactMeComp() {
+function AboutMeComp() {
     return (
         <div>
             <h1>AboutMe Comp Page Working! Not a page yet, will become one</h1>
@@ -8,4 +8,4 @@ function ContactMeComp() {
     )
 }
 
-export default ContactMeComp ;
+export default AboutMeComp ;
