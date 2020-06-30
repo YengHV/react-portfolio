@@ -1,6 +1,7 @@
 import React from 'react';
 import './App.css';
-import RepoComp from './components/Repositories'
+import RepoComp from './components/RepoComp/Repositories'
+import ContactMeComp from './components/ContactMeComp/ContactMe'
 
 function App() {
   return (
@@ -9,6 +10,7 @@ function App() {
         Start up app
       </h1>
       <RepoComp></RepoComp>
+      <ContactMeComp></ContactMeComp>
 
     </div>
   );
