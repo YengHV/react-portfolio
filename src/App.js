@@ -1,5 +1,6 @@
 import React from 'react';
 import './App.css';
+import RepoComp from './components/Repositories'
 
 function App() {
   return (
@@ -7,6 +8,8 @@ function App() {
       <h1>
         Start up app
       </h1>
+      <RepoComp></RepoComp>
+
     </div>
   );
 }
