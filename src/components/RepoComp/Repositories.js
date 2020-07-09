@@ -8,4 +8,4 @@ function RepoComp() {
     )
 }
 
-export default RepoComp ;
+export default RepoComp;

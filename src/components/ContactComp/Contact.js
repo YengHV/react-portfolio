@@ -8,4 +8,4 @@ function ContactComp() {
     )
 }
 
-export default ContactComp ;
+export default ContactComp;
