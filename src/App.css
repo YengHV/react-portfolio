@@ -1,3 +1,9 @@
+body{
+    background-color: green;
+}
+.navbar{
+    margin-bottom: 10px;
+}
 .jumbo{
     align-content: center;
     /* margin-top: 5px; */
