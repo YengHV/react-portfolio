@@ -10,7 +10,11 @@ import NavBarComp from './components/NavBar/NavBarComp';
 function App() {
   return (
    <Router>
-    <div className="App">
+    <div className="App"
+      style = {{
+        backgroundColor: "#74B1EC"
+      }}
+      >
     <NavBarComp></NavBarComp>
       <Switch>
       <Route path = '/Contact' component = {ContactComp}/>
