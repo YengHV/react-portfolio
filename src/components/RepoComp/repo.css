@@ -1,0 +1,13 @@
+.carousel {
+    width:400px;
+    height:250px;
+    margin: auto;
+  }
+
+.container {
+    padding: 10px;
+}
+.col{
+    padding: 10px;
+    text-align: center;
+}

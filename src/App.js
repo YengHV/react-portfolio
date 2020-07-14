@@ -11,9 +11,9 @@ function App() {
   return (
    <Router>
     <div className="App"
-      style = {{
-        backgroundColor: "#74B1EC"
-      }}
+      // style = {{
+      //   backgroundColor: "#74B1EC"
+      // }}
       >
     <NavBarComp></NavBarComp>
       <Switch>

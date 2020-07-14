@@ -15,8 +15,8 @@ function AboutMeComp() {
             <h1>AboutMe</h1>
             <Row>
             <Col>
-            <h4>How I started Web Development</h4>
-            <p>In my free time, I'd like to go fishing, hunting, and camping. I was born in Saint Paul, Minnsota, and lived there my whole life. My recent postition was a Sales Consultant at AutoNation Ford White Bear lake. I've been working as a Sales Consultant for over 4 months, and in sales for almost my whole work career. In the end of Feburary, I decided to make a career change. This lead me to take a persue The University of Minnesota Continuing Education to learn Full-Stack Web Development. </p>
+            <h4>My Software Development Jouney</h4>
+            <p>In my free time, I'd like to go fishing, hunting, and camping. I was born in Saint Paul, Minnsota, and lived there my whole life. I have been working and higly experienced in customer service for the past six to eight years, whether that is via phone or face to face interaction. My past customer service related field included working in retail sales and customer service representative; My recent postition included a Sales Consultant at AutoNation Ford White Bear lake, where I as a Sales Consultant for over 4 months, and in sales for almost my whole work career. In the end of Feburary, I decided to make a career change. This lead me to pursue and further my education with The University of Minnesota Continuing Education to learn Full-Stack Web Development. </p>
             </Col>
             <Col>
             <h4>
