@@ -5,7 +5,7 @@ import './jumbo.css';
 function JumbotronComp(){
 return (
 <div>
-<Container classname = 'jumbo'>
+<Container className='contain'>
 <Jumbotron>
   
 </Jumbotron>

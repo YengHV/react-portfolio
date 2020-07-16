@@ -23,7 +23,7 @@ function AboutMeComp() {
                 Example Col 2
             </h4>
             <p> Skills: MERN STACK</p>
-            <p>Libarys I used: Bootstrap, Google Fonts Jquery</p>
+            <p>Libaries I used: Bootstrap, Google Fonts Jquery</p>
             </Col>
             </Row>
             </Container>
