@@ -16,8 +16,8 @@ function RepoComp() {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>Park Planner</h3>
+                        {/* <p>Words</p> */}
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -47,7 +47,7 @@ function RepoComp() {
             </Carousel>
             </Container>
                 <Col>
-                <p>Text describing Repo Projects</p>
+                <a href="https://yenghv.github.io/Park-planner/">Park Planner</a>
                 </Col>
         </div>
         <div>
@@ -60,8 +60,8 @@ function RepoComp() {
                     alt="First slide"
                 />
                 <Carousel.Caption>
-                    <h3>First slide label</h3>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                    <h3>Word Game</h3>
+                    {/* <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -91,7 +91,7 @@ function RepoComp() {
         </Carousel>
         </Container>
         <Col>
-            <p>Text describing Repo Projects</p>
+        <a href="https://lit-ravine-77685.herokuapp.com/wordgame#">Word Game</a>
                 </Col>    
     </div>
     <div>
@@ -104,8 +104,8 @@ function RepoComp() {
                     alt="First slide"
                 />
                 <Carousel.Caption>
-                    <h3>First slide label</h3>
-                    <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                    <h3>React Portfolio Generator</h3>
+                    {/* <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p> */}
                 </Carousel.Caption>
             </Carousel.Item>
             <Carousel.Item>
@@ -137,7 +137,7 @@ function RepoComp() {
     </div>
     </Container>
     <Col>
-        <p>Text describing Repo Projects</p>
+    <p>Delpoy link</p>
                 </Col>        
     </div>
     )
