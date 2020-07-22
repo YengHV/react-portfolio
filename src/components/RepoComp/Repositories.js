@@ -1,6 +1,7 @@
 import React from "react";
 import "./repo.css"
 import { Carousel, Container, Col } from "react-bootstrap"
+import {parkplannerimg, parkplannerimg2, parkplannerimg3} from "../../images"
 
 function RepoComp() {
     return (
@@ -12,36 +13,34 @@ function RepoComp() {
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://cdn.pixabay.com/photo/2015/10/12/15/46/fallow-deer-984573__340.jpg"
+                        src={parkplannerimg}
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>Park Planner</h3>
+                        <h2 className="carousel-font">Park Planner</h2>
                         {/* <p>Words</p> */}
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://cdn.pixabay.com/photo/2014/12/12/19/45/lion-565820__340.jpg"
-                        alt="Third slide"
+                        src={parkplannerimg2}
+                        alt="Second slide"
                     />
 
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                    <h2 className="carousel-font">Park Planner</h2>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
                     <img
                         className="d-block w-100"
-                        src="https://cdn.pixabay.com/photo/2014/08/21/09/28/brown-bear-423202__340.jpg"
+                        src={parkplannerimg3}
                         alt="Third slide"
                     />
 
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
-                        <p>Praesent commodo cursus magna, vel scelerisque nisl consectetur.</p>
+                    <h2 className="carousel-font">Park Planner</h2>
                     </Carousel.Caption>
                 </Carousel.Item>
             </Carousel>
