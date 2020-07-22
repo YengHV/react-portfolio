@@ -15,3 +15,8 @@
 .carousel-font{
     color: black;
 }
+
+.carousel-container{
+    background-color: #eee;
+    text-align: center;
+}

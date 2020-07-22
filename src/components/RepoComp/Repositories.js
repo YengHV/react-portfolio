@@ -6,7 +6,7 @@ import {parkplannerimg, parkplannerimg2, parkplannerimg3, wordgame, wordgame2, w
 function RepoComp() {
     return (
         <div>
-            <Container>
+            <Container className="carousel-container">
         <div>
             <Container>
             <Carousel>
@@ -133,11 +133,12 @@ function RepoComp() {
             </Carousel.Item>
         </Carousel>
         </Container>
+        <Col>
+    <p>Delpoy link</p>
+                </Col>  
     </div>
     </Container>
-    <Col>
-    <p>Delpoy link</p>
-                </Col>        
+          
     </div>
     )
 }
