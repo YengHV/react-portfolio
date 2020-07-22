@@ -8,10 +8,10 @@ function AboutMeComp() {
     
     return (
         <div>
-            <Container>
+            <Container className = "aboutme-container">
             <JumbotronComp></JumbotronComp>
             </Container>
-            <Container>
+            <Container  className = "aboutme-container paragraph">
             <h1>AboutMe</h1>
             <Row>
             <Col>
