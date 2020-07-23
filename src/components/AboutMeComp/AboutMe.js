@@ -16,7 +16,9 @@ function AboutMeComp() {
             <Row>
             <Col>
             <h4>My Software Development Jouney</h4>
-            <p>In my free time, I'd like to go fishing, hunting, and camping. I was born in Saint Paul, Minnsota, and lived there my whole life. I have been working and higly experienced in customer service for the past six to eight years, whether that is via phone or face to face interaction. My past customer service related field included working in retail sales and customer service representative; My recent postition included a Sales Consultant at AutoNation Ford White Bear lake, where I as a Sales Consultant for over 4 months, and in sales for almost my whole work career. In the end of Feburary, I decided to make a career change. This lead me to pursue and further my education with The University of Minnesota Continuing Education to learn Full-Stack Web Development. </p>
+            <p>I have worked in customer service for the past eight years, dedicated to client’s satisfaction and providing high quality service. Interactions with clients were either face to face or via phone, particularly in retail, representative customer service with phone support included, as well as sales consultant. Earlier in 2020, I decided to do more research about coding and decided to make a career change. This led me to pursue my education with the University of Minnesota, where I learned Full-Stack Web Development.  Some of my projects that I’ve created will be linked under the repositories tab. 
+            </p>
+            <p>Fun Facts: From the great state of MN, known for it's 10, 000 lakes. I Enjoy to go fishing, hunting, and camping in my free time.  </p>
             </Col>
             <Col>
             <h4>
