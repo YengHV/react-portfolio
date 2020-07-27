@@ -1,13 +1,15 @@
 import React from "react";
 import "./repo.css"
-import { Carousel, Container, Col } from "react-bootstrap"
+import { Carousel, Container, Col,} from "react-bootstrap"
 import {parkplannerimg, parkplannerimg2, parkplannerimg3, wordgame, wordgame2, wordgame3, portfolioGen, portfolioGen2, portfolioGen3} from "../../images"
 
 function RepoComp() {
     return (
         <div>
-            <Container>
+            <Container> 
+
         <div className="carousel-container">
+           
             <Container>
             <Carousel>
                 <Carousel.Item>
@@ -48,7 +50,9 @@ function RepoComp() {
                 <Col>
                 <a href="https://yenghv.github.io/Park-planner/">Park Planner</a>
                 </Col>
+                
         </div>
+       
         <div className="carousel-container">
         <Container >
         <Carousel>
@@ -138,7 +142,7 @@ function RepoComp() {
                 </Col>  
     </div>
     </Container>
-          
+    
     </div>
     )
 }
