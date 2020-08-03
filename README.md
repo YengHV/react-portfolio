@@ -12,3 +12,5 @@
 ### Contact me
 - Create text box for recruiter input
 - Have working recruiter input to contain messages
+
+<!-- deploying to heroku -->
